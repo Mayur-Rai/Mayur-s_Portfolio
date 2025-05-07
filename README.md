@@ -1,4 +1,4 @@
-Analytics Project
+# Analytics Project
 ### 1. [Landed Cost Analysis](Landed_Cost-Img)
 ## Project Overview
 This project involves the design and execution of a cost analysis framework across four different geographies, aiming to provide actionable insights into crew costs and overall company profitability.
