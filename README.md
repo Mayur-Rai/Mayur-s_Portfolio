@@ -1,6 +1,6 @@
 # Mayur's_Portfolio
 Analytics Portfolio
-# [Landed Cost Analysis](images/dashboard_screenshot.png)
+# [Landed Cost Analysis](Screenshot 2025-05-07 104447.png)
 
 ## Project Overview
 This project involves the design and execution of a cost analysis framework across four different geographies, aiming to provide actionable insights into crew costs and overall company profitability.
@@ -18,7 +18,7 @@ This project involves the design and execution of a cost analysis framework acro
   - Nationality
 
 ## Sample Visuals
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Screenshot 2025-05-07 104447.png)
 
 *(The dashboard above displays margin calculations with and without airfare, based on user inputs for Client Billing Rate and Crew Rate.)*
 
