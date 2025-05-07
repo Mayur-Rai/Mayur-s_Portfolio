@@ -55,3 +55,39 @@ Developed a tool that provided actionable insights for cost savings and enhanced
 
 **Screenshot:**  
 ![Replacement Calculator Screenshot](Replacementcost.png)
+
+---
+
+### 4. [Target Sheet - Crew Tracking and Mandays Calculation](#)
+
+**Description:**  
+Developed an advanced tracking system to monitor crew rotations, calculate manpower targets, and manage predictions versus actuals for operational efficiency.
+
+**Skills/Tools Used:**  
+- Excel  
+- Power BI  
+- VBA  
+- Data Validation and Process Automation  
+
+**Highlights:**  
+- Created a **Crew Tracking Sheet** to manage daily updates for approved crew and rotation data.
+- Built a **secured file structure** giving limited access to Team Leads (TLs).
+- Automated calculations for:
+  - **Mandays Target Till Today** (based on hitch start and end dates)
+  - **Mandays as per Actual** (sourced from Power BI)
+  - **Mandays as per Prediction** (based on planned rotations)
+- Managed **Exceptional Cases** separately for better data clarity.
+- Categorized crew into:
+  - **Rotation (On Hitch)**:
+    - Subcategories: `Mob_Out` (crew leaving within same month except last date), `ETE` (crew leaving future months or on last date)
+  - **Rotation (Off Hitch)**:
+    - Data cleaning steps: removing blanks, minus values, Mob date checks
+    - Recalculated mob dates and cleaned manual entries
+  - **Approved**:
+    - Differentiated crew based on current and future months.
+    - Adjusted menday calculations for past-dated approved crew.
+- Ensured **Potential Men Days** matched **Predicted Men Days** through validation steps.
+- Extensive data cleanup steps applied including formula protection (blue columns), and manual override protections.
+
+---
+
