@@ -1,5 +1,4 @@
 Analytics Project
-# [Landed Cost Analysis]
 # [Landed Cost Analysis](Landed_Cost-Img)
 ## Project Overview
 This project involves the design and execution of a cost analysis framework across four different geographies, aiming to provide actionable insights into crew costs and overall company profitability.
@@ -20,7 +19,7 @@ This project involves the design and execution of a cost analysis framework acro
 ![Replacement Calculator Screenshot](Landed_Cost-Img)
 ---
 
-### 2. [Residual Cost Model]
+### 2. # [Residual Cost Model]
 
 **Description:**  
 Played a key role in developing a tool to estimate profit timelines and breakeven days for crew operations.
