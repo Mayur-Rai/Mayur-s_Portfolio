@@ -1,7 +1,7 @@
 # Analytics Project
 ### 1. [Landed Cost Analysis](Landed_Cost-Img)
 ## Project Overview
-This project involves the design and execution of a cost analysis framework across four different geographies, aiming to provide actionable insights into crew costs and overall company profitability.
+This project involves the design and execution of a cost analysis framework across four different geographies(Saudi,UAE,Oman and Qatar) aiming to provide actionable insights into crew costs and overall company **profitability**.
 
 ## Tools & Technologies
 - Power BI
@@ -9,8 +9,8 @@ This project involves the design and execution of a cost analysis framework acro
 - Power Query
 
 ## Key Outputs
-- Calculation of crew variable cost to accurately calculate margins.
-- Development of an interactive Power BI dashboard with dynamic filters for:
+- Calculation of crew variable cost to accurately calculate **margins**.
+- Development of an interactive **Power BI dashboard** with dynamic filters for:
   - Region
   - Role
   - Nationality
@@ -30,8 +30,8 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 - SQL  
 
 **Highlights:**  
-- Break-even timeline for profitability  
-- GP% (Gross Profit Percentage) tracking  
+- **Break-even** timeline for profitability  
+- **GP%** (Gross Profit Percentage) tracking  
 - Ongoing margin analysis including H1 cost vs earning, and H1+H2 cost vs earning
 
 ---
@@ -39,7 +39,7 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 ### 3. [Replacement Calculator](Replacementcost.png)
 
 **Description:**  
-Developed a tool that provided actionable insights for cost savings and enhanced operational efficiency.
+Developed a tool that provided actionable insights for cost savings and **enhanced operational efficiency**.
 
 **Skills/Tools Used:**  
 - Excel  
@@ -48,10 +48,10 @@ Developed a tool that provided actionable insights for cost savings and enhanced
 - SQL  
 
 **Highlights:**  
-- Calculated total overhead cost  
+- Calculated total **overhead cost**  
 - Analyzed rotation per day and per year  
-- Calculated replacement time  
-- Developed models for
+- Calculated **replacement time**  
+- Developed **planning model**.
 
 **Screenshot:**  
 ![Replacement Calculator Screenshot](Replacementcost.png)
