@@ -16,6 +16,8 @@ This project involves the design and execution of a cost analysis framework acro
   - Role
   - Nationality
 
+---
+
 ### 2. Residual Cost Model
 
 **Description:**  
@@ -31,5 +33,6 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 - GP% (Gross Profit Percentage) tracking  
 - Ongoing margin analysis including H1 cost vs earning, and H1+H2 cost vs earning
 
-## Folder Structure
+---
+
 
