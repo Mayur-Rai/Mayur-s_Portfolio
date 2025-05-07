@@ -16,10 +16,20 @@ This project involves the design and execution of a cost analysis framework acro
   - Role
   - Nationality
 
-## Sample Visuals
-![Dashboard Screenshot](Landed_Cost-Img)
+### 2. Residual Cost Model
 
-*(The dashboard above displays margin calculations with and without airfare, based on user inputs for Client Billing Rate and Crew Rate.)*
+**Description:**  
+Played a key role in developing a tool to estimate profit timelines and breakeven days for crew operations.
+
+**Skills/Tools Used:**  
+- Excel  
+- Power BI  
+- SQL  
+
+**Highlights:**  
+- Break-even timeline for profitability  
+- GP% (Gross Profit Percentage) tracking  
+- Ongoing margin analysis including H1 cost vs earning, and H1+H2 cost vs earning
 
 ## Folder Structure
 
