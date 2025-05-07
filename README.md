@@ -19,7 +19,7 @@ This project involves the design and execution of a cost analysis framework acro
 ![Replacement Calculator Screenshot](Landed_Cost-Img)
 ---
 
-### 2.  [Residual Cost Model]
+### 2. [Residual Cost Model](Residual_Cost-Img)
 
 **Description:**  
 Played a key role in developing a tool to estimate profit timelines and breakeven days for crew operations.
