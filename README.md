@@ -36,6 +36,7 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 ---
 
 ### 3. [Replacement Calculator](#)
+# [Replacement Calculator](Replacementcost.png)
 
 **Description:**  
 Developed a tool that provided actionable insights for cost savings and enhanced operational efficiency.
