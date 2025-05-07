@@ -34,3 +34,21 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 - Ongoing margin analysis including H1 cost vs earning, and H1+H2 cost vs earning
 
 ---
+
+### 3. [Replacement Calculator](#)
+
+**Description:**  
+Developed a tool that provided actionable insights for cost savings and enhanced operational efficiency.
+
+**Skills/Tools Used:**  
+- Excel  
+- Power BI  
+- VBA  
+- SQL  
+
+**Highlights:**  
+- Calculated total overhead cost  
+- Analyzed rotation per day and per year  
+- Calculated replacement time  
+- Developed models for
+
