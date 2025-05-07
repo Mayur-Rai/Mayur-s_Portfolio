@@ -17,7 +17,7 @@ This project involves the design and execution of a cost analysis framework acro
   - Nationality
 
 ## Sample Visuals
-![Dashboard Screenshot](https://github.com/Mayur-Rai/Mayur_Portfolio/blob/main/Screenshot%202025-05-07%20104447.png)
+![Dashboard Screenshot](Landed_Cost-Img)
 
 *(The dashboard above displays margin calculations with and without airfare, based on user inputs for Client Billing Rate and Crew Rate.)*
 
