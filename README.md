@@ -1,5 +1,4 @@
-# Mayur's_Portfolio
-Analytics Portfolio
+Analytics Project
 # [Landed Cost Analysis]
 
 ## Project Overview
