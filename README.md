@@ -18,7 +18,9 @@ This project involves the design and execution of a cost analysis framework acro
 
 ---
 
-### 2. Residual Cost Model
+---
+
+## 2. **Residual Cost Model**
 
 **Description:**  
 Played a key role in developing a tool to estimate profit timelines and breakeven days for crew operations.
@@ -34,5 +36,3 @@ Played a key role in developing a tool to estimate profit timelines and breakeve
 - Ongoing margin analysis including H1 cost vs earning, and H1+H2 cost vs earning
 
 ---
-
-
